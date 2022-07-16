@@ -1,0 +1,1 @@
+let swiper=new Swiper(".mySwiper",{slidesPerView:'auto',spaceBetween:30,slidesPerGroup:1,loop:!0,loopFillGroupWithBlank:!0,pagination:{el:".swiper-pagination",clickable:!0,},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev",},})
